@@ -1,1 +1,5 @@
-# Build your say_hello method here
+# Build your say_hello method helper_method
+
+def say_hello(name = "Ruby Programmer")
+
+end
